@@ -1,0 +1,16 @@
+[
+{
+  "modid": "concretesolidifier",
+  "name": "Concrete Solidifier",
+  "description": "Solidify your concrete.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://minecraft.curseforge.com/projects/concrete-solidifier",
+  "updateUrl": "",
+  "authorList": ["TheMasterGeneral"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["ctdcore"]
+}
+]
