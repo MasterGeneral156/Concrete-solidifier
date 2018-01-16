@@ -6,7 +6,7 @@
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "https://minecraft.curseforge.com/projects/concrete-solidifier",
-  "updateUrl": "",
+  "updateUrl": "https://raw.githubusercontent.com/MasterGeneral156/Version/master/concrete-solidifier.json",
   "authorList": ["TheMasterGeneral"],
   "credits": "",
   "logoFile": "",
